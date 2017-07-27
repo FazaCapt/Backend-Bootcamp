@@ -19,6 +19,17 @@ app.get("/speak/:animal", function(req, res) {
     res.send("the " + animal + " says " + sound);
 });
 
+app.get("/repeat/:message/:times", function(req, res){
+    var message = req.params.message;
+    var times = Number(req.params.times);
+    var results = "";
+
+    for(var i = 0; i < times; i++) {
+        results += message + " ";
+    }
+    res.send(results);
+});
+
 app.listen(3000, function(){
     console.log("Connected Server at 3000!");
 })
