@@ -30,6 +30,10 @@ app.get("/repeat/:message/:times", function(req, res){
     res.send(results);
 });
 
+app.get("*", function(req, res) {
+    res.send("Sorry, page not found... what are you doing with your life?");
+});
+
 app.listen(3000, function(){
     console.log("Connected Server at 3000!");
 })
