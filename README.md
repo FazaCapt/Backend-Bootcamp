@@ -11,7 +11,8 @@
 9. intro to API: http://webdev.slides.com/coltsteele/deck-41-78-59#/
 10. Ifttt: https://ifttt.com/discover
 11. Programmable API: https://www.programmableweb.com/category/all/news
-
+12. Contoh API Json and XML: https://developer.yahoo.com/weather/
+13. Json Online: http://jsoneditoronline.org/
 
 ### Corecction:
 
