@@ -8,6 +8,9 @@
 6. http://matt.might.net/articles/basic-unix/
 7. https://www.davidbaumgold.com/tutorials/command-line/
 8. https://stackshare.io/nodejs
+9. intro to API: http://webdev.slides.com/coltsteele/deck-41-78-59#/
+10. Ifttt: https://ifttt.com/discover
+11. Programmable API: https://www.programmableweb.com/category/all/news
 
 
 ### Corecction:
