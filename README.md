@@ -18,8 +18,8 @@
 ### Corecction:
 
 1. C9: https://www.udemy.com/the-web-developer-bootcamp/learn/v4/t/lecture/6679774?start=0
-2
-
+2. API: https://www.udemy.com/the-web-developer-bootcamp/learn/v4/t/lecture/7147750?start=0
+3. Cara mengambil data di api: http://www.omdbapi.com/?s=star&apikey=thewdb
 
 
 ### Node
